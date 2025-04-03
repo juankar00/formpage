@@ -1,2 +1,4 @@
-# formpage
-github page
+# Horizontal-Swiper
+for Starting Screen
+
+# npm install
